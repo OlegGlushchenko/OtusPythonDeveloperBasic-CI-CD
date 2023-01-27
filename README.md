@@ -1,1 +1,7 @@
-# OtusPythonDeveloperBasic-CI-CD
+# OtusPythonDeveloperBasic
+
+## Это репозиторий с домашними заданиями CI/CD по курсу "Python Developer. Basic".
+
+### Данный репозиторий нужен для:
+- отработки на практике полученных знаний на курсе по темам CI/CD 
+- получения обратной связи
